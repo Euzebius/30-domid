@@ -1,13 +1,14 @@
-# Day 05 - TBD
+# Day 05 - MessageBox Signal
 
 ## 🎯 Objective
-Task to be defined.
+Show a MessageBox as a placeholder for payload execution.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- MessageBox in WinAPI
+- Delphi user32.dll calls
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+A message box appears with your custom text.
 
 ## 🧠 Concepts Covered
-TBD
+user32, payload signaling

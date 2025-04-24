@@ -1,13 +1,14 @@
-# Day 28 - TBD
+# Day 28 - Nim Loader
 
 ## 🎯 Objective
-Task to be defined.
+Wrap Delphi binary in Nim shellcode loader.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Nim WinAPI wrappers
+- Nim DLL loaders
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Delphi binary runs via Nim wrapper.
 
 ## 🧠 Concepts Covered
-TBD
+Polyglot payloads

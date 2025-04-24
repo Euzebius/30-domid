@@ -1,13 +1,14 @@
-# Day 14 - TBD
+# Day 14 - Deploy in Lab
 
 ## 🎯 Objective
-Task to be defined.
+Move payload to VM and verify behavior.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Ludus upload
+- Testing tools (procmon)
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Confirmed behavior in Windows lab.
 
 ## 🧠 Concepts Covered
-TBD
+Operational testing

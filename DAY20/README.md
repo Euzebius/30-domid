@@ -1,13 +1,14 @@
-# Day 20 - TBD
+# Day 20 - Add Junk Code
 
 ## 🎯 Objective
-Task to be defined.
+Insert no-op loops and delays.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Anti-analysis evasion
+- Junk insertion examples
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Program runs slower, harder to analyze.
 
 ## 🧠 Concepts Covered
-TBD
+Evasion techniques

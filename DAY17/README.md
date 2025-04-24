@@ -1,13 +1,14 @@
-# Day 17 - TBD
+# Day 17 - Reduce Imports
 
 ## 🎯 Objective
-Task to be defined.
+Statically resolve imports and shrink IAT.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi import tricks
+- GetProcAddress example
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Less functions in IAT.
 
 ## 🧠 Concepts Covered
-TBD
+API resolving, stealth

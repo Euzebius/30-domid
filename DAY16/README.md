@@ -1,13 +1,14 @@
-# Day 16 - TBD
+# Day 16 - Strip Debug Info
 
 ## 🎯 Objective
-Task to be defined.
+Remove debug info from the binary.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi compiler flags
+- PEStudio scan
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+No debug symbols found.
 
 ## 🧠 Concepts Covered
-TBD
+Hardening, stealth

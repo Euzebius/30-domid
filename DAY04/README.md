@@ -1,13 +1,14 @@
-# Day 04 - TBD
+# Day 04 - Launch Command
 
 ## 🎯 Objective
-Task to be defined.
+Execute cmd.exe using WinExec or ShellExecute.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- WinExec docs on MSDN
+- Delphi ShellExecute tutorial
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+cmd.exe launches silently.
 
 ## 🧠 Concepts Covered
-TBD
+WinAPI, process launching

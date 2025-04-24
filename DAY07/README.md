@@ -1,13 +1,14 @@
-# Day 07 - TBD
+# Day 07 - Console vs GUI Compilation
 
 ## 🎯 Objective
-Task to be defined.
+Compile same program in console and GUI modes.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi project options
+- App type toggling
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Two compiled binaries behave differently.
 
 ## 🧠 Concepts Covered
-TBD
+Build config, visibility

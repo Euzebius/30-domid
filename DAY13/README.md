@@ -1,13 +1,14 @@
-# Day 13 - TBD
+# Day 13 - Fake GUI Background Task
 
 ## 🎯 Objective
-Task to be defined.
+Run payload while GUI appears idle.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi threads
+- Task scheduling
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Payload runs behind GUI.
 
 ## 🧠 Concepts Covered
-TBD
+Threads, UI deception

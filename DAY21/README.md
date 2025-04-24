@@ -1,13 +1,14 @@
-# Day 21 - TBD
+# Day 21 - Test Against Defender
 
 ## 🎯 Objective
-Task to be defined.
+Run tool under Windows Defender.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Defender logs
+- Sysinternals Procmon
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+AV reaction analyzed.
 
 ## 🧠 Concepts Covered
-TBD
+Detection testing

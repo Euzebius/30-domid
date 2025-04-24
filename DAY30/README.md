@@ -1,13 +1,14 @@
-# Day 30 - TBD
+# Day 30 - Sandbox Behavior Recording
 
 ## 🎯 Objective
-Task to be defined.
+Run in CAPEv2 or Cuckoo.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- [CAPEv2](https://github.com/kevoreilly/CAPEv2)
+- Behavior analysis logs
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Behavior profile generated.
 
 ## 🧠 Concepts Covered
-TBD
+Dynamic analysis

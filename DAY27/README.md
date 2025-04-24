@@ -1,13 +1,13 @@
-# Day 27 - TBD
+# Day 27 - XOR Encrypted Binary
 
 ## 🎯 Objective
-Task to be defined.
+Encrypt and decrypt binary blob.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Custom XOR implementation
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Executable launches from memory.
 
 ## 🧠 Concepts Covered
-TBD
+In-memory execution

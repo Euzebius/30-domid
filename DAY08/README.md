@@ -1,13 +1,14 @@
-# Day 08 - TBD
+# Day 08 - WinAPI Basics
 
 ## 🎯 Objective
-Task to be defined.
+Use VirtualAlloc and WriteProcessMemory in a simple way.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- MSDN: VirtualAlloc
+- Delphi memory allocation examples
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Memory allocated and string written.
 
 ## 🧠 Concepts Covered
-TBD
+Memory management, WinAPI

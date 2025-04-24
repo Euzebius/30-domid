@@ -1,13 +1,13 @@
-# Day 18 - TBD
+# Day 18 - Add Fake PE Sections
 
 ## 🎯 Objective
-Task to be defined.
+Use PE-Bear to add unused sections.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- PE-Bear section editing
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Binary has fake `.cloak` section.
 
 ## 🧠 Concepts Covered
-TBD
+Binary obfuscation

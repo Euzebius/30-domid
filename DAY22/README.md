@@ -1,13 +1,14 @@
-# Day 22 - TBD
+# Day 22 - HTTP Downloader
 
 ## 🎯 Objective
-Task to be defined.
+Download file and execute it.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi HTTP clients
+- Indy or WinInet
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Payload fetched over HTTP.
 
 ## 🧠 Concepts Covered
-TBD
+Network operations

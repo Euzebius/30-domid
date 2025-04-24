@@ -1,13 +1,13 @@
-# Day 24 - TBD
+# Day 24 - Mutex Check
 
 ## 🎯 Objective
-Task to be defined.
+Prevent duplicate runs with mutex.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- CreateMutex in WinAPI
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Second run exits early.
 
 ## 🧠 Concepts Covered
-TBD
+Process control

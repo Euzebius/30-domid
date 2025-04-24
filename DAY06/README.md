@@ -1,13 +1,14 @@
-# Day 06 - TBD
+# Day 06 - XOR Encode/Decode
 
 ## 🎯 Objective
-Task to be defined.
+Create a function to XOR encode and decode strings.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- XOR cipher basics
+- Delphi string manipulation
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+You encode and decode correctly.
 
 ## 🧠 Concepts Covered
-TBD
+Bitwise operations, strings

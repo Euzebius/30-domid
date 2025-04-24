@@ -1,13 +1,13 @@
-# Day 26 - TBD
+# Day 26 - Encrypted Config File
 
 ## 🎯 Objective
-Task to be defined.
+Read encrypted config from file.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- XOR or AES in Delphi
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Config decrypted and used.
 
 ## 🧠 Concepts Covered
-TBD
+File I/O, obfuscation

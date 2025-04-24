@@ -1,13 +1,13 @@
-# Day 15 - TBD
+# Day 15 - UPX Packing
 
 ## 🎯 Objective
-Task to be defined.
+Pack binary with UPX and test behavior.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- [UPX](https://upx.github.io/)
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Binary runs after packing.
 
 ## 🧠 Concepts Covered
-TBD
+Binary packing

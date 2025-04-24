@@ -1,13 +1,13 @@
-# Day 23 - TBD
+# Day 23 - Fake Installer Dropper
 
 ## 🎯 Objective
-Task to be defined.
+Simulate legit installer, drop and run payload.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- UX deception tactics
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Payload hidden in drop.
 
 ## 🧠 Concepts Covered
-TBD
+UX engineering, persistence

@@ -1,13 +1,13 @@
-# Day 19 - TBD
+# Day 19 - Use TMemoryStream
 
 ## 🎯 Objective
-Task to be defined.
+Decrypt payload from memory stream.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi `TMemoryStream` docs
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Payload decrypted in-memory.
 
 ## 🧠 Concepts Covered
-TBD
+Stream manipulation, evasion

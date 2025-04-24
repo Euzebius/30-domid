@@ -1,13 +1,14 @@
-# Day 12 - TBD
+# Day 12 - Registry Persistence
 
 ## 🎯 Objective
-Task to be defined.
+Add Run key to HKCU for persistence.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi registry examples
+- Windows persistence techniques
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Program starts at login.
 
 ## 🧠 Concepts Covered
-TBD
+Registry manipulation

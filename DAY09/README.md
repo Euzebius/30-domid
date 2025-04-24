@@ -1,13 +1,14 @@
-# Day 09 - TBD
+# Day 09 - Manual PE Loader Stub
 
 ## 🎯 Objective
-Task to be defined.
+Stub out a PE loader (just parse headers).
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Manual mapping overview
+- PE format intro
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Valid PE structure recognized and printed.
 
 ## 🧠 Concepts Covered
-TBD
+PE headers, manual mapping

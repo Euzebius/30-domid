@@ -1,13 +1,14 @@
-# Day 10 - TBD
+# Day 10 - Shellcode Loader
 
 ## 🎯 Objective
-Task to be defined.
+XOR-decrypt and execute shellcode in memory.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Delphi shellcode loader examples
+- Inline assembler in Delphi
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Shellcode executes from memory.
 
 ## 🧠 Concepts Covered
-TBD
+Memory protection, execution

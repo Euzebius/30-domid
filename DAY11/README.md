@@ -1,13 +1,14 @@
-# Day 11 - TBD
+# Day 11 - Rename PE Sections
 
 ## 🎯 Objective
-Task to be defined.
+Rename PE sections post-build using PE-Bear.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- PE-Bear usage
+- Section headers in PE format
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+New section names appear in the PE.
 
 ## 🧠 Concepts Covered
-TBD
+PE structure, evasion

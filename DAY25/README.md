@@ -1,13 +1,14 @@
-# Day 25 - TBD
+# Day 25 - Anti-Debugging
 
 ## 🎯 Objective
-Task to be defined.
+Detect debugger and alter behavior.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- IsDebuggerPresent
+- DebugBreak tactics
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+Debugged app behaves differently.
 
 ## 🧠 Concepts Covered
-TBD
+Anti-analysis

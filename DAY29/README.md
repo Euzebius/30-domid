@@ -1,13 +1,13 @@
-# Day 29 - TBD
+# Day 29 - Test on Windows 11
 
 ## 🎯 Objective
-Task to be defined.
+Deploy payload on modern system.
 
 ## 📚 Suggested Resources
-- Placeholder content, check back soon.
+- Defender logs, SmartScreen tests
 
 ## ✅ Validation Criteria
-Basic implementation complete.
+No immediate detection.
 
 ## 🧠 Concepts Covered
-TBD
+Compatibility, stealth
